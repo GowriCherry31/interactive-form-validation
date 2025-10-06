@@ -9,9 +9,10 @@ This project is a simple **Interactive Form Validation** web application built u
 - Clean and responsive design
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+
+- **HTML5** – Structure of the form  
+- **CSS3** – Styling and responsive layout  
+- **JavaScript** – Interactive validation and user feedback  
 
 ## How to Run
 1. Download or clone this repository.
